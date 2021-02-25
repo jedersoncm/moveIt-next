@@ -1,8 +1,8 @@
 <h1 align="center">Move.it :running:</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="/moveIt.png" />
-</p>
+</p> -->
 
 # :pushpin: Tabela de conteúdos
 
