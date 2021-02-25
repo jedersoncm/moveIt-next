@@ -1,7 +1,7 @@
 <h1 align="center">Move.it :running:</h1>
 
 <p align="center">
-  <img src="./.github/home.svg" />
+  <img src="/moveIt.png" />
 </p>
 
 # :pushpin: Tabela de conteúdos
